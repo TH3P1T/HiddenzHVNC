@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<configuration>
+    <appSettings>
+        <add key="Host" value="127.0.0.1" />
+        <add key="Port" value="8081" />
+        <add key="Identifier" value="Default" />
+        <add key="Mutex" value="Mutex_25840020" />
+        <add key="Delay" value="1000" />
+        <add key="Startup" value="false" />
+        <add key="Filename" value="FileName.exe" />
+        <add key="Foldername" value="FolderName" />
+        <add key="Path" value="%AppData%" />
+    </appSettings>
+</configuration>
